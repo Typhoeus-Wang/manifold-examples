@@ -47,5 +47,11 @@ A manifold with $d=3$
 A "cute" manifold
 ------------------
 
+An example with real data (maybe)
+---------------------------------
+
+This paper https://arxiv.org/pdf/1907.01651.pdf discusses the problems in the case of Spectral Embedding and proposes a solution. 
+
+
 
 
